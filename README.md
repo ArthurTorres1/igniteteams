@@ -1,4 +1,5 @@
 App de Organização de Jogos ⚽🎮
+
 Este projeto é um aplicativo mobile desenvolvido em React Native que permite a organização de jogos de maneira simples e eficiente. Com ele, você pode:
 
 Criar turmas para organizar seus grupos;
